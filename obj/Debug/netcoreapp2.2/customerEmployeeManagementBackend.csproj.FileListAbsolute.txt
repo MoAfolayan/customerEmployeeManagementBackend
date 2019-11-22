@@ -1,0 +1,14 @@
+/home/mafolayan/source/customerEmployeeManagementBackend/bin/Debug/netcoreapp2.2/customerEmployeeManagementBackend.deps.json
+/home/mafolayan/source/customerEmployeeManagementBackend/bin/Debug/netcoreapp2.2/customerEmployeeManagementBackend.runtimeconfig.json
+/home/mafolayan/source/customerEmployeeManagementBackend/bin/Debug/netcoreapp2.2/customerEmployeeManagementBackend.runtimeconfig.dev.json
+/home/mafolayan/source/customerEmployeeManagementBackend/bin/Debug/netcoreapp2.2/customerEmployeeManagementBackend.dll
+/home/mafolayan/source/customerEmployeeManagementBackend/bin/Debug/netcoreapp2.2/customerEmployeeManagementBackend.pdb
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.csprojAssemblyReference.cache
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.csproj.CoreCompileInputs.cache
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.RazorAssemblyInfo.cache
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.RazorAssemblyInfo.cs
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.AssemblyInfoInputs.cache
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.AssemblyInfo.cs
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.RazorTargetAssemblyInfo.cache
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.dll
+/home/mafolayan/source/customerEmployeeManagementBackend/obj/Debug/netcoreapp2.2/customerEmployeeManagementBackend.pdb
